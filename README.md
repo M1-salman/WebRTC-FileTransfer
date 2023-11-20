@@ -16,6 +16,8 @@ The file that you share is sent via the WebRTC data channel as raw binary data.
 - Express.js
 
 ### How to use and more 
+1. Linkedin :- https://www.linkedin.com/posts/salman-masood917_webdevelopment-fullstackdeveloper-backend-activity-7132426854451265536-B6kr?utm_source=share&utm_medium=member_desktop
+2. Twitter :- https://x.com/salman_code/status/1726665213804736588?s=20
 
 ## Installation
 
@@ -27,7 +29,7 @@ The file that you share is sent via the WebRTC data channel as raw binary data.
 2. Go to the project folder
 
    ```sh
-   cd WebRTC-FileTransfe
+   cd WebRTC-FileTransfer
    ```
 
 3. Install packages with yarn
