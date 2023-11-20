@@ -44,3 +44,5 @@ The file that you share is sent via the WebRTC data channel as raw binary data.
    ```
 
 5. Open a browser to [http://localhost:5173](http://localhost:5173)
+
+## Thank you
