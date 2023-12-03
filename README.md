@@ -23,26 +23,23 @@ The file that you share is sent via the WebRTC data channel as raw binary data.
 
 1. Clone the GitHub repository
    ```sh
-   git clone https://github.com/calcom/cal.com.git
+   git clone https://github.com/M1-salman/WebRTC-FileTransfer.git
    ```
 
-2. Go to the project folder
+2. Go to the project folder WebRTC-FileTransfer
 
-   ```sh
-   cd WebRTC-FileTransfer
-   ```
+3. Go to the server folder
 
-3. Install packages with yarn
+4. Install all packages using npm i
 
-   ```sh
-   yarn
-   ```
+5. Run using npm run start
 
-4. Run
-   ```sh
-   yarn run dev
-   ```
+6. Go to the client folder
 
-5. Open a browser to [http://localhost:5173](http://localhost:5173)
+7. Install all packages using yarn
+
+8. Run using yarn run dev
+
+9. Open a browser to http://localhost:5173
 
 ## Thank you
